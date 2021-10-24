@@ -1,0 +1,35 @@
+All licenses can be found here: https://github.com/applesfruit/PvPLite-Client-1.7.10/tree/main/dependencyLicenses
+
+Credits:
+EthanDevelops @EthanDevelops
+applesfruit @applesfruit
+ForgeGradle
+Gradle
+GradleMixins
+
+
+
+
+
+
+DISCLAIMERS:
+
+    PvPLite Client | A simple, lightweight, pvp client for Minecraft
+    Copyright (C) 2021  EthanDevelops, applesfruit
+
+    This library is free software; you can redistribute it and/or
+    modify it under the terms of the GNU Lesser General Public
+    License as published by the Free Software Foundation; either
+    version 2.1 of the License, or (at your option) any later version.
+
+    This library is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+    Lesser General Public License for more details.
+
+    You should have received a copy of the GNU Lesser General Public
+    License along with this library; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301
+    USA
+    
+PvPLite Client is in no way affiliated with Mojang, AB. Nor should it be considered a company endorsed by Mojang, AB.
