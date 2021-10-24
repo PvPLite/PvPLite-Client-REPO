@@ -1,11 +1,11 @@
 All licenses can be found here: https://github.com/applesfruit/PvPLite-Client-1.7.10/tree/main/dependencyLicenses
 
 Credits:
-EthanDevelops @EthanDevelops
-applesfruit @applesfruit
-ForgeGradle
-Gradle
-GradleMixins
+EthanDevelops @EthanDevelops (https://github.com/EthanDevelops)
+applesfruit @applesfruit (https://github.com/applesfruit)
+ForgeGradle @MinecraftForge (https://github.com/MinecraftForge/ForgeGradle)
+Gradle @gradle (https://github.com/gradle/gradle)
+GradleMixins @SpongePowered (https://github.com/SpongePowered/MixinGradle)
 
 
 
