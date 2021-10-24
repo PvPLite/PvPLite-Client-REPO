@@ -1,0 +1,9 @@
+{
+  "updates": {
+    "stable": "1.0",
+    "dev": "1.0-INDEV"
+  },
+  "ethanupdates": {
+    "update": "INDEV"
+  }
+}
