@@ -32,4 +32,4 @@ DISCLAIMERS:
     Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301
     USA
     
-PvPLite Client is in no way affiliated with Mojang, AB. Nor should it be considered a company endorsed by Mojang, AB.
+PvPLite Client is in no way affiliated with Mojang, AB. Nor should it be considered endorsed by Mojang, AB.
