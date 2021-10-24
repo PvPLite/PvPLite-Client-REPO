@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/applesfruit/PvPLite-Client",
+  "promos": {
+    "1.7.10-recommended": "1.0-INDEV",
+    "1.7.10-latest": "1.0-INDEV"
+  },
+  "1.7.10": {
+    "1.0-INDEV": "Coming soon..."
+  }
+}
