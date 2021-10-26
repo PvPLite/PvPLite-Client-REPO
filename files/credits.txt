@@ -1,4 +1,4 @@
-All licenses can be found here: https://github.com/applesfruit/PvPLite-Client-1.7.10/tree/main/dependencyLicenses
+All dependency licenses can be found here: https://github.com/applesfruit/PvPLite-Client-1.7.10/tree/main/dependencyLicenses
 
 Credits:
 EthanDevelops @EthanDevelops (https://github.com/EthanDevelops)
@@ -6,6 +6,7 @@ applesfruit @applesfruit (https://github.com/applesfruit)
 ForgeGradle @MinecraftForge (https://github.com/MinecraftForge/ForgeGradle)
 Gradle @gradle (https://github.com/gradle/gradle)
 GradleMixins @SpongePowered (https://github.com/SpongePowered/MixinGradle)
+Sk1er Mods @Sk1er, @Sk1erLLC (https://github.com/Sk1erLLC)
 
 
 
@@ -14,8 +15,8 @@ GradleMixins @SpongePowered (https://github.com/SpongePowered/MixinGradle)
 
 DISCLAIMERS:
 
-    PvPLite Client | A simple, lightweight, pvp client for Minecraft
-    Copyright (C) 2021  EthanDevelops, applesfruit
+    PvPLite Client | A simple, lightweight, PvP client for Minecraft
+    Copyright (C) 2021  applesfruit, EthanDevelops
 
     This library is free software; you can redistribute it and/or
     modify it under the terms of the GNU Lesser General Public
