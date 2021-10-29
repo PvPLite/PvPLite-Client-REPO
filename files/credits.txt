@@ -10,12 +10,17 @@ Sk1er Mods @Sk1er, @Sk1erLLC, and all the other amazing contributors (https://gi
 DiscordIPC @jagrosh, and all the other amazing contributors (https://github.com/jagrosh/DiscordIPC)
 SkyblockAddons @biscuut, @BiscuitDevelopment, and all the other amazing contributors (https://github.com/BiscuitDevelopment/SkyblockAddons)
 NotEnoughUpdates @Moulberry, and all the other amazing contributors (https://github.com/Moulberry/NotEnoughUpdates)
+ProjectLombok @ProjectLombok, and all the other amazing contributors (https://github.com/ProjectLombok/lombok)
+FalseHonesty @FalseHonesty, and all the other amazing contributors (https://github.com/FalseHonesty/reflections)
+Slick2D (unable to find repo / username, if you know the repo please make a pr)
+Caffeine @ben-manes, and all the other amazing contributors (https://github.com/ben-manes/caffeine)
+MojangApi @KevinPriv, @Sk1er, @asbyth (https://github.com/KevinPriv/MojangAPI)
+ow2-asm (https://gitlab.ow2.org/asm/asm/-/tree/master)
+DeobfStack @Cubxity (repo not found)
+ethanlibs @EthanDevelops (no repo)
+
 
 note: if you feel at someone who should be credited is not here, please make a pull request <3
-
-
-
-
 
 
 DISCLAIMERS:
