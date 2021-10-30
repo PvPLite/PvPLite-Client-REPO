@@ -18,6 +18,8 @@ MojangApi @KevinPriv, @Sk1er, @asbyth (https://github.com/KevinPriv/MojangAPI)
 ow2-asm (https://gitlab.ow2.org/asm/asm/-/tree/master)
 DeobfStack @Cubxity (repo not found)
 ethanlibs @EthanDevelops (no repo)
+gson @Google, and all the other amazing contributors (https://github.com/google/gson)
+
 
 
 note: if you feel at someone who should be credited is not here, please make a pull request <3
